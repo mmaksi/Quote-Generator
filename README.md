@@ -1,5 +1,5 @@
 ## Demo ⚡
-[https://markmaksi74.github.io/quote-generator/](https://markmaksi74.github.io/quote-generator/)
+I have memorized tons upon tons of quotes from my extensive readings in philosophy over the years, so I decided to create this simple web app that generates a random quote from an API. You have the option to generate a new quote or share the quote you like with your social network on Twitter. [Enjoy!](https://markmaksi74.github.io/quote-generator/)
 
 ![quote-generator](https://i.ibb.co/Bw4tHD9/quotes-generator.jpg)
 
