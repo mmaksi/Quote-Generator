@@ -1,6 +1,8 @@
 ## Demo ⚡
 [https://markmaksi74.github.io/quote-generator/](https://markmaksi74.github.io/quote-generator/)
 
+![quote-generator](https://i.ibb.co/Bw4tHD9/quotes-generator.jpg)
+
 ## Features 🥁
 - Random Quotes [API](https://type.fit/api/quotes)
 - [Loader](https://www.w3schools.com/howto/howto_css_loader.asp) for initial load created by w3schools
